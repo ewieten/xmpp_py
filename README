@@ -1,0 +1,9 @@
+--CONFIG--
+Bot.conf editables:
+user: XMPP server user
+password: XMPP server password
+server: XMPP server
+
+spammessage: The message that's being send
+spamtarget: Target username
+debug: Set to 1 for debug, anything else is not debug.
